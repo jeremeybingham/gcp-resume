@@ -5,7 +5,7 @@ This repository contains the code for: [gcp-resume.jeremeybingham.com](https://g
 ### Some other resume templates in progress, inspired by the [Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/aws/):
 
 📝 **S3 Static via Terraform** version: [resume.jeremeybingham.com](https://resume.jeremeybingham.com) 
-repo/code: [gcp-resume](https://github.com/jeremeybingham/resume)
+repo/code: [resume](https://github.com/jeremeybingham/resume)
 
 💽 **S3 Static with Github Actions CI/CD** version: [aws-s3-static.jeremeybingham.com](https://aws-s3-static.jeremeybingham.com) 
 repo/code: [aws-s3-static](https://github.com/jeremeybingham/aws-s3-static)
